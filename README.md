@@ -8,7 +8,7 @@ Projeto de Business Intelligence desenvolvido no **Power BI Desktop**, com foco 
 
 ## 🖼️ Visão geral do dashboard
 
-![Dashboard principal](dashboard.png)
+![Dashboard principal](BI4.jpg)
 
 ---
 
@@ -22,7 +22,7 @@ O modelo segue o padrão **Star Schema (esquema estrela)**, com uma tabela fato 
 | **Calendário** | Dimensão | Tabela de datas para análises temporais |
 | **Equipe** | Dimensão | Dados dos vendedores / equipe comercial |
 
-![Modelo de dados](modelo.png)
+![Modelo de dados](BI.jpg)
 
 ---
 
@@ -30,7 +30,7 @@ O modelo segue o padrão **Star Schema (esquema estrela)**, com uma tabela fato 
 
 As métricas do relatório foram criadas com **medidas DAX**, organizadas no modelo para reaproveitamento em todos os visuais.
 
-![Medidas DAX](medidas.png)
+![Medidas DAX](BI2.jpg)
 
 ---
 
@@ -38,7 +38,7 @@ As métricas do relatório foram criadas com **medidas DAX**, organizadas no mod
 
 O relatório conta com páginas de **drill-through**, permitindo sair da visão geral e detalhar a análise por item específico (por exemplo, por vendedor), mantendo os filtros aplicados.
 
-![Drill-through](drillthrough.png)
+![Drill-through](BI3.jpg)
 
 ---
 
